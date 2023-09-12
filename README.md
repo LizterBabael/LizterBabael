@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @LizterBabael
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi  I'm  Lizter Kieth </h1>
 
-<!---
-LizterBabael/LizterBabael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center"><span>Kain</span> <span>Tulog</span> <span>Lang</span></h3>
+
+<a target="_blank" align="center">
+  <img align="center" top="600" height="500" width="1000" alt="GIF" src="https://media.giphy.com/media/Rlwz4m0aHgXH13jyrE/giphy-downsized.gif"> 
+</a>
+
+
